@@ -18,8 +18,6 @@ st.header('Clickbait Binary Classifier Develepped')
 st.write(' by ECH-CHAOUI Issam and EL BHIRI Zakariae')
 st.write('This app is based on a LSTM model')
 st.write('The model is trained on the Clickbait dataset')
-st.write('The model is trained on the Clickbait dataset')
-
 text = st.text_input("Enter some text")
 
 
@@ -32,8 +30,8 @@ if text:
     output = model.predict(padded_sequences)
 
     
-    st.write(output)
-    if model.predict(output) > 0.5:
-        st.write("This is not a clickbait title")
+    st.write("Probability :", output[0][0])
+    if output[0][0] > 0.5:
+        st.write("This is not a clickbait")
     else:
-        st.write("This is a clickbait tile")
+        st.write("This is a clickbait")
