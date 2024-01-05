@@ -1,10 +1,10 @@
 # Présentation du Projet
 
 ## 1.1 Titre du Projet :
-Détection des articles Clickbait by `EL BHIRI Zakariae` et `ECH-CHAOUI Issam`
+Détection des articles Clickbite by `EL BHIRI Zakariae` et `ECH-CHAOUI Issam`
 
 ## 1.2 Description du Projet :
-Le projet de Détection de Clickbait vise à développer un système robuste et précis pour identifier un article clickbait dans les articles en ligne, les titres et les publications sur les réseaux sociaux. Le clickbait fait référence au contenu conçu pour attirer l'attention et encourager les utilisateurs à cliquer sur un lien, souvent en utilisant des informations trompeuses ou exagérées.
+Le projet de Détection de Clickbite vise à développer un système robuste et précis pour identifier un article clickbait dans les articles en ligne, les titres et les publications sur les réseaux sociaux. Le clickbait fait référence au contenu conçu pour attirer l'attention et encourager les utilisateurs à cliquer sur un lien, souvent en utilisant des informations trompeuses ou exagérées.
 
 # 2. Objectifs
 
